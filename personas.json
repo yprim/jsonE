@@ -1,0 +1,12 @@
+{
+  "personas" : [
+    {"nombre": "adrian", "nickname":"master yoda"},
+    {"nombre": "copito", "nickname":"peluchito"},
+    {"nombre": "fernando", "nickname":"fer"},
+    {"nombre": "daniel castillo", "nickname":"jueputis"},
+    {"nombre": "bryan", "nickname":"cosi"},
+    {"nombre": "juan  pablo", "nickname":"el joven"},
+    {"nombre": "yocsan", "nickname":"yocsanal"}
+    
+  ]
+}
